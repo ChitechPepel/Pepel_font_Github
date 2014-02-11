@@ -1,0 +1,12 @@
+#first_font{
+	font-family: 'Balthazar', serif;
+}
+#second_font{
+	font-family: 'New Rocker', cursive;
+}
+#third_font{
+	font-family: 'Wallpoet', cursive;
+}
+body{
+	background-color:yellow;
+}
